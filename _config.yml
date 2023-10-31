@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Soumi Maiti / Site Title"
+title                    : "Soumi Maiti"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Postdoctoral Research Associate at Carnegie Mellon University"
