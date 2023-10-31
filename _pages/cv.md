@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Computer Science, 2012
+* M.Phil. in Computer Science, The Graduate Center,CUNY, 2019
+* Ph.D in Computer Science, The Graduate Center,CUNY, 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Mar. 2022 - Present: Postdoctoral Researcher
+  * Carnegie Mellon University
+  * Advised by: Professor Shinji Watanabe
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan. 2021 - Mar. 2022 : Machine Learning Research Engineer
+  * Apple Inc
+  * Multilingual Text-To-Speech synthesis.
+  * Long form speech synthesis.
+    
   
 Skills
 ======
