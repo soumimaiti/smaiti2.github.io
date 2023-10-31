@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Tech. in Computer Science, 2012
-* M.Phil. in Computer Science, The Graduate Center,CUNY, 2019
 * Ph.D in Computer Science, The Graduate Center,CUNY, 2021
+* M.Phil. in Computer Science, The Graduate Center,CUNY, 2019
+* B.Tech. in Computer Science, Indian Institute of Engineering, Science and Technology, Shibpur, 2012
 
 Work experience
 ======
@@ -25,16 +25,38 @@ Work experience
   * Apple Inc
   * Multilingual Text-To-Speech synthesis.
   * Long form speech synthesis.
+
+* Jun. 2020 - Oct. 2020: Research Intern, Student Researcher
+  * Google
+  * End-to-end source diarization for long sequence modeling.
+
+* Jun. 2019 - Aug. 2019: Machine Learning Intern
+  * Apple Inc
+  * Multilingual Text-To-Speech using internal data sets.
+ 
+* Jun. 2016 - Aug. 2016: Research Intern
+  * Interactions LLC
+  * Quality prediction for dialog systems using large commercial data sets.
+  * Development of general quality prediction algorithms.
     
+* Jun. 2012 - Jun. 2015: Software Engineer
+  * Polais Networks 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages:
+  * Python
+  * C/C++
+  * Linux programming
+* Tools
+  * TensorFlow
+  * PyTorch
+  * Matlab   
+* Languages:
+  * Bengali (Native)
+  * English
+  * Hindi
+
 
 Publications
 ======
