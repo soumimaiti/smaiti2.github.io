@@ -8,11 +8,4 @@ location: "New York, NY"
 ---
 
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Conducted workshops on Python, data analysis, visualization, Git, and LaTeX
