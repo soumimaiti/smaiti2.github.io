@@ -7,5 +7,9 @@ date: Fall 2019, Spring 2020
 location: "New York, NY"
 ---
 
-## Data Science workshop series
+## Data Science workshops
+
+Math Fellow
+Hunter College
+Fall 2019, Spring 2020
 Conducted workshops on Python, data analysis, visualization, Git, and LaTeX
