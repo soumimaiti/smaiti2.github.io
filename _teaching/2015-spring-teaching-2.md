@@ -2,7 +2,7 @@
 title: "Data Science workshop series"
 collection: teaching
 type: "Workshop"
-venue: "Hunter College, CUNY, Mathematics"
+venue: "Hunter College (CUNY), Mathematics"
 date: Fall 2019, Spring 2020
 location: "New York, NY"
 ---
