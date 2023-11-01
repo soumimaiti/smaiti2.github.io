@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Soumi Maiti, a postdoctoral researcher at Carnegie Mellon University's Language Technologies Institute. During my doctoral studies, I primarily focused on high-quality speech enhancement using speech synthesis techniques. Currently, I am working towards speech generation using advanced language models and multilingual speech processing. I'm deeply passionate about various aspects of speech and language processing systems, which includes speech processing, speech synthesis, speech enhancement, speech evaluation, and machine learning in general.
+Hello! I'm Soumi Maiti, a postdoctoral researcher at Carnegie Mellon University's Language Technologies Institute. I'm deeply passionate about various aspects of speech and language processing, which includes speech processing, speech synthesis, speech enhancement, speech evaluation, and machine learning in general. During my doctoral studies, I primarily focused on high-quality speech enhancement using speech synthesis techniques. Currently, I am working towards speech generation using advanced language models and multilingual speech processing. 
 
 
 ## My background and history
