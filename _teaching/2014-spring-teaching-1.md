@@ -7,7 +7,8 @@ date: 09-01-2018
 location: "New York, NY"
 ---
 
-## Introduction to Computer Applications
+### Introduction to Computer Applications
+----
 
 * Taught computer literacy, word processing, and database systems.
 * Adjunct Lecturer
