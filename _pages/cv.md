@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, The Graduate Center,CUNY, 2021
-* M.Phil. in Computer Science, The Graduate Center,CUNY, 2019
+* Ph.D in Computer Science, The Graduate Center, CUNY, 2021
+* M.Phil. in Computer Science, The Graduate Center, CUNY, 2019
 * B.Tech. in Computer Science, Indian Institute of Engineering, Science and Technology, Shibpur, 2012
 
 Work experience
@@ -23,8 +23,8 @@ Work experience
 
 * Jan. 2021 - Mar. 2022 : Machine Learning Research Engineer
   * Apple Inc
-  * Multilingual Text-To-Speech synthesis.
-  * Long form speech synthesis.
+  * Multilingual Text-To-Speech synthesis
+  * Long form speech synthesis
 
 * Jun. 2020 - Oct. 2020: Research Intern, Student Researcher
   * Google
