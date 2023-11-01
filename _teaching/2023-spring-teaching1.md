@@ -3,7 +3,6 @@ title: "Speech Processing"
 collection: teaching
 type: "Undergraduate course"
 venue: "Carnegie Mellon University"
-date: 
 location: "Pittsburgh, PA"
 ---
 
