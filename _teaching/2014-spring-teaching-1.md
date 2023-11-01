@@ -7,6 +7,7 @@ date: 2018-09-01
 location: "New York, NY"
 ---
 
+
 ### Introduction to Computer Applications
 -----
 * Taught computer literacy, word processing, and database systems.
