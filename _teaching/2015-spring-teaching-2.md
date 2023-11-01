@@ -3,11 +3,12 @@ title: "Data Science workshop series"
 collection: teaching
 type: "Workshop"
 venue: "Hunter College (CUNY), Mathematics"
-date: Fall 2019, Spring 2020
+date: 2020-01-01
 location: "New York, NY"
 ---
 
-## Data Science workshops
+### Data Science workshops
+---
 
 * Math Fellow
 * Hunter College
