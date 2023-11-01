@@ -3,6 +3,7 @@ title: "Speech Processing"
 collection: teaching
 type: "Undergraduate course"
 venue: "Carnegie Mellon University"
+date: Spring, 2023
 location: "Pittsburgh, PA"
 ---
 
