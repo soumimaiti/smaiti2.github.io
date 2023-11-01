@@ -9,6 +9,6 @@ location: "Pittsburgh, PA"
 
 ## Speech Processing
 
-Co-Instructor
-Spring 2023
-Introduction to Text-To-Speech processing
+* Co-Instructor
+* Spring 2023
+* Introduction to Text-To-Speech processing
