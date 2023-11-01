@@ -8,5 +8,6 @@ location: "Pittsburgh, PA"
 ---
 
 ## Speech Processing
+
 Co-Instructor
 Introduction to text-to-speech applications
