@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Demo: Text Continuation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 24px;
+            margin: 0;
+        }
+
+        table {
+            width: 80%;
+            margin: 20px auto;
+            background-color: #fff;
+            border-collapse: collapse;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        th, td {
+            border: 1px solid #ccc;
+            padding: 10px;
+        }
+
+        th {
+            background-color: #333;
+            color: #fff;
+            text-align: left;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        tr:nth-child(odd) {
+            background-color: #e5e5e5;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Example Text Continuation</h1>
+    </header>
+
+    <table>
+        <tr>
+            <th>Input</th>
+            <th>Output</th>
+        </tr>
+        <tr>
+            <td>one two three four</td>
+            <td>one two three four five</td>
+        </tr>
+        <tr>
+            <td>better late than</td>
+            <td>better late than never i suppose</td>
+        </tr>
+        <tr>
+            <td>every day i eat breakfast lunch and</td>
+            <td>every day i eat breakfast lunch and supper</td>
+        </tr>
+        <tr>
+            <td>every day i eat breakfast lunch and</td>
+            <td>every day i eat breakfast lunch and dinner and so on</td>
+        </tr>
+        
+    </table>
+</body>
+</html>
