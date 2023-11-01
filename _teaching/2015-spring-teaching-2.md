@@ -9,7 +9,6 @@ location: "New York, NY"
 
 ### Data Science workshops
 ---
-
 * Math Fellow
 * Hunter College
 * Fall 2019, Spring 2020
